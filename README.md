@@ -1,6 +1,9 @@
 # reflex_ocr_system
 This app enables users to upload an image then the app extracts the text of the image to output to the user.
 
+This app idea is brought out of the fact that sometimes I would want to use the text of an image but I don't want to type the text all over so I can just use this solution to extract
+the text of the image.
+
 # The following is the output of the app
 
 ![reflexocrinit](https://github.com/emmakodes/reflex_ocr_system/assets/34986076/c772f794-4314-49fb-ac94-cfef6aa5c356)
