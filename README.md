@@ -36,3 +36,6 @@ the text of the image.
   `reflex init`
 
   `reflex run`
+
+  <br>
+You can read the article where I explained how I built the app: [Build an OCR app using fullstack Python Framework Reflex](https://dev.to/emmakodes_/build-an-ocr-app-using-fullstack-python-framework-reflex-4ao7)
